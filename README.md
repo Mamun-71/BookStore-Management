@@ -1,2 +1,2 @@
 # Rokomari-BookStore
-#Tech : Java,Spring-Boot,MySql,Html.
+# Tech: Java,Spring-Boot,MySql,Html.
